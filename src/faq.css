@@ -1,0 +1,19 @@
+/* #faq_img{
+    background-image: url("./img/faqimg5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.faq{
+   font-size: 60px;
+    margin-top: 200px;
+}
+.btn1{
+    font-size: 50px
+}
+.btn1:hover{
+    text-decoration: none !important;
+}
+#font1 button{
+    font-size:200%;
+} */
